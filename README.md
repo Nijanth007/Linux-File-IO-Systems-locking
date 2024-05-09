@@ -1,5 +1,4 @@
-## NAME:Prideesh M
-## REG NO:212223040154
+
 
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
