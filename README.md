@@ -26,7 +26,7 @@ Execute the C Program for the desired output.
 ```
 #include <unistd.h>
 #include <sys/stat.h>
-#include <fcntl.h>
+#include <fcntl.h> 
 #include <stdlib.h>
 int main()
 {
